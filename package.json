@@ -11,13 +11,18 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "^10.4.8",
+		"concurrently": "^7.3.0",
+		"cross-env": "^7.0.3",
 		"postcss": "^8.4.16",
+		"postcss-cli": "^10.0.0",
 		"svelte": "^3.44.0",
+		"svelte-preprocess": "^4.10.7",
+		"tailwindcss": "^3.1.8",
 		"vite": "^3.0.4"
 	},
 	"type": "module",
 	"dependencies": {
-		"rollup-plugin-svelte": "^7.1.0",
-		"tailwindcss": "^3.1.8"
+		"flowbite": "^1.5.2",
+		"rollup-plugin-svelte": "^7.1.0"
 	}
 }

@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
+/* html {
     font-family: 'Inter', sans-serif !important;
 }
 
@@ -20,4 +20,4 @@ html {
 
 .btn-danger {
     @apply bg-red-500 text-white border-transparent hover:opacity-75;
-}
+} */
