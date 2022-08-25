@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import '../styles/tailwind.css'
+</script>
+
+<h1 class="uppercase text-indigo-500 text-9xl">
+    Hello People of Earth
+  </h1>
+
+<p class="text-red-600">
+    Hehehe
+</p>
+
+
+
