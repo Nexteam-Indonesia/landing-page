@@ -3,6 +3,7 @@
     import SectionHero from "../component/SectionHero.svelte";
     import MiddleContent from "../component/MiddleContent.svelte";
     import MainContent from "../component/MainContent.svelte";
+    import Footer from "../component/Footer.svelte";
 </script>
 
 <div>
@@ -10,4 +11,5 @@
     <SectionHero />
     <MiddleContent/>
     <MainContent/>
+    <Footer/>
 </div>

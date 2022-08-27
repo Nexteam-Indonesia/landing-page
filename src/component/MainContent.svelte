@@ -35,7 +35,7 @@
     </div>
 </section>
 
-<section>
+<section class="mb-[10em]">
     <div class="text-center w-full gap-8 m-auto mb-8 text-dark-blue">
         <h6 class="font-semibold text-base">Pricing List</h6>
         <h4 class="text-[2rem] font-bold leading-10 my-2">Which one is suitable for you</h4>
