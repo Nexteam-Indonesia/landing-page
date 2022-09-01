@@ -1,5 +1,7 @@
 <script>
-    import HeaderMain from "../images/header_main.jpg";
+    import Logo from '../images/logo.png'
+    import HeaderMain from '../images/header_main.jpg'
+    
 </script>
 
 <header class="min-h-screen max-w-6xl mx-auto">
